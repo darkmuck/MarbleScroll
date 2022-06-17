@@ -1,0 +1,27 @@
+c:\users\primoz\documents\visual studio 2012\Projects\MarbleScroll\MarbleScroll\bin\Debug\MarbleScroll.exe.config
+c:\users\primoz\documents\visual studio 2012\Projects\MarbleScroll\MarbleScroll\bin\Debug\MarbleScroll.exe
+c:\users\primoz\documents\visual studio 2012\Projects\MarbleScroll\MarbleScroll\bin\Debug\MarbleScroll.pdb
+c:\users\primoz\documents\visual studio 2012\Projects\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.csprojResolveAssemblyReference.cache
+c:\users\primoz\documents\visual studio 2012\Projects\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.Properties.Resources.resources
+c:\users\primoz\documents\visual studio 2012\Projects\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.csproj.GenerateResource.Cache
+c:\users\primoz\documents\visual studio 2012\Projects\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.exe
+c:\users\primoz\documents\visual studio 2012\Projects\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.pdb
+c:\users\primoz\documents\visual studio 2012\Projects\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.MarbleForm.resources
+C:\Users\Primoz\Documents\Visual Studio 2013\Projects\MarbleScroll\MarbleScroll\bin\Debug\MarbleScroll.exe.config
+C:\Users\Primoz\Documents\Visual Studio 2013\Projects\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.exe
+C:\Users\Primoz\Documents\Visual Studio 2013\Projects\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.pdb
+C:\Users\Primoz\Documents\Visual Studio 2013\Projects\MarbleScroll\MarbleScroll\bin\Debug\MarbleScroll.exe
+C:\Users\Primoz\Documents\Visual Studio 2013\Projects\MarbleScroll\MarbleScroll\bin\Debug\MarbleScroll.pdb
+C:\Users\Primoz\Documents\Visual Studio 2013\Projects\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Documents\Visual Studio 2013\Projects\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.MarbleForm.resources
+C:\Users\Primoz\Documents\Visual Studio 2013\Projects\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.Properties.Resources.resources
+C:\Users\Primoz\Documents\Visual Studio 2013\Projects\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.csproj.GenerateResource.Cache
+C:\Users\Primoz\Desktop\MarbleScroll\MarbleScroll\bin\Debug\MarbleScroll.exe.config
+C:\Users\Primoz\Desktop\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.exe
+C:\Users\Primoz\Desktop\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.pdb
+C:\Users\Primoz\Desktop\MarbleScroll\MarbleScroll\bin\Debug\MarbleScroll.exe
+C:\Users\Primoz\Desktop\MarbleScroll\MarbleScroll\bin\Debug\MarbleScroll.pdb
+C:\Users\Primoz\Desktop\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Desktop\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.MarbleForm.resources
+C:\Users\Primoz\Desktop\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.Properties.Resources.resources
+C:\Users\Primoz\Desktop\MarbleScroll\MarbleScroll\obj\Debug\MarbleScroll.csproj.GenerateResource.Cache
